@@ -1,4 +1,6 @@
-## Gerenciador de Estoque (stock-manager) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+## Gerenciador de Estoque (stock-manager) 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![JSON](https://img.shields.io/badge/JSON-Data%20Format-10a5d4?logo=json)
+
 Uma aplicação de linha de comando em Python para gerenciar o estoque de itens, controlar reposições e gerar listas de compras automaticamente.
 
 ## 🎮 Sobre o projeto
@@ -52,7 +54,9 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## Inventory Manager (stock-manager) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+## Inventory Manager (stock-manager) 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![JSON](https://img.shields.io/badge/JSON-Data%20Format-10a5d4?logo=json)
+
 A simple Python terminal app to manage item stock, track restocking needs, and automatically generate shopping lists.
 
 ## 🎮 About th project
